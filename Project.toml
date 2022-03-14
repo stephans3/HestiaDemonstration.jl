@@ -1,0 +1,13 @@
+name = "HestiaDemonstration"
+uuid = "54f871c0-df0a-4b68-b1b8-deaf6d16cc5a"
+authors = ["Stephan Scholz <stephan.scholz@rwu.de> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1.6"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
