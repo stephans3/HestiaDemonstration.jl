@@ -9,6 +9,6 @@
 This project contains a demonstration example for [Hestia.jl](https://github.com/stephans3/Hestia.jl)
 
 1. add Hestia to your Julia environment
-2. run HestiaDemonstration: 
-- this runs [cuboid example]() and
+2. run [HestiaDemonstration](https://github.com/stephans3/HestiaDemonstration.jl/blob/main/src/HestiaDemonstration.jl): 
+- this runs [cuboid example](https://github.com/stephans3/HestiaDemonstration.jl/blob/main/src/conf2022/cuboid_example.jl) and
 - creates the plots and saves them in folder results/plots
