@@ -1,15 +1,16 @@
-authors = ["Stephan Scholz <stephan.scholz@rwu.de> and contributors"]
 name = "HestiaDemonstration"
 uuid = "54f871c0-df0a-4b68-b1b8-deaf6d16cc5a"
+authors = ["Stephan Scholz <stephan.scholz@rwu.de> and contributors"]
 version = "0.1.0"
-
-[compat]
-julia = "1.6"
 
 [deps]
 Hestia = "75036a29-a2ca-4eb4-a964-4c35e636f9a9"
 OrdinaryDiffEq = "1dea7af3-3e70-54e6-95c3-0bf5283fa5ed"
 PlotlyJS = "f0f68f2c-4968-5e81-91da-67840de0976a"
+
+[compat]
+OrdinaryDiffEq = "6"
+julia = "1.6"
 
 [extras]
 CPUSummary = "2a0fbf3d-bb9c-48f3-b0a9-814d99fd7ab9"
